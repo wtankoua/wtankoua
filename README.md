@@ -1,4 +1,6 @@
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Walter Tankoua Babo](https://abhishknads.me/), a passionate self-taught aws devops engineer from USA. 
+In today's fast-paced digital landscape, businesses are increasingly migrating to the cloud to gain agility, scalability, and cost-effectiveness. 
+As an AWS DevOps/Cloud Engineer, I play a pivotal role in facilitating this transformation, helping companies embrace cloud technologies to stay competitive.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
