@@ -25,3 +25,5 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <img align="bottom" alt="GIF" src="https://github.com/wtankoua/wtankoua/blob/main/aws.gif?raw=true" width="250" height="160" />
 
+<img align="bottom" alt="GIF" src="https://github.com/wtankoua/wtankoua/blob/main/aws.gif?raw=true" width="300" height="200" />
+
