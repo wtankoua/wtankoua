@@ -24,3 +24,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ![image](https://github.com/wtankoua/wtankoua/assets/85093870/891c5481-daf6-4351-b0e7-5b7c6936dabd)
 
+<img align="bottom" alt="GIF" src="https://github.com/wtankoua/wtankoua/blob/main/aws.gif?raw=true" width="500" height="320" />
+
