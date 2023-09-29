@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **from cloud champ**
 
-- 👯 I’m looking to collaborate on **clooud native**
+- 👯 I’m looking to collaborate on **cloud native**
 
 - 📫 How to reach me **wtankoua88@gmail.com**
 
